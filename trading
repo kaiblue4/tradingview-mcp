@@ -1,0 +1,33 @@
+Instruksi Analisa Chart:
+Analisa gambar chart candlestick saham yang saya lampirkan secara teknikal. Lakukan identifikasi visual secara presisi dengan ketentuan berikut:
+
+1. Identifikasi Titik Kunci & Kalkulasi Breakout Range
+Cari dan sebutkan nilai harga dari chart:
+- Swing Low Terakhir (SL): Harga terendah dari struktur tren terakhir.
+- Breakout Point (BP): Level resistensi terdekat yang sedang atau telah ditembus.
+- Hitung Matematis Target Harga: - (Range Price = Breakout Point - Swing Low).
+- - (Target Price (TP) = Breakout Point + Range Price).
+
+2. Pembacaan 3 Candlestick Terakhir
+Amati 3 candle paling kanan (terbaru) pada chart:
+Candle 1 (2 hari lalu): Warna, kekuatan body, dan posisi ekor (shadow).
+Candle 2 (1 hari lalu): Pola yang terbentuk (misal: Hammer, Doji, Engulfing) dan konfirmasi volume (jika terlihat).
+Candle 3 (Hari Ini/Terakhir): Apakah posisi penutupan (Close) mengonfirmasi Breakout di atas resistensi?
+
+3. Output Sinyal & Estimasi Kenaikan
+Berikan hasil analisa dalam format ringkas:
+Estimasi Kenaikan: Berapa persentase potensi kenaikan dari harga Breakout menuju Target Price.
+Sinyal Entry: Area harga ideal untuk beli (termasuk potensi area Retest jika ada).
+Sinyal Exit:
+Take Profit (TP): Berdasarkan hitungan Target Price.
+Stop Loss (SL): Penempatan risiko (1-2% di bawah Breakout Point atau di bawah candle Breakout).
+
+bagi target price menjadi 2 bagian dan hitung presentase yang diperoleh.
+
+4. Analisa trend yang sedang berlangsung dan konfirmasi strong candlenya 
+
+5. prediksi estimasi hari sebelum saham ini bergerak naik atau turun
+
+6. tentukan posisi buy on retest atau buy on breakout. serta analisa apakah market sedang mengalami jenuh beli atau jenuh jual
+
+buatkan ringkasan untuk broadcast pesan WhatsApp
